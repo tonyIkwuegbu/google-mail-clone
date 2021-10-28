@@ -3,6 +3,10 @@ display: grid;
 place-items: center;
 height: 100vh;
 }
+h3{
+    color: grey;
+    font-family: cursive;
+}
 
 .login_container{
     display: flex;

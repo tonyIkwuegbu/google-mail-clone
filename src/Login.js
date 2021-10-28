@@ -32,6 +32,7 @@ function Login() {
           Login
         </Button>
       </div>
+      <h3>Gmail Clone Built by Zetrov</h3>
     </div>
   );
 }
